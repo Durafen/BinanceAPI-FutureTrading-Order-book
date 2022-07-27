@@ -106,27 +106,27 @@
            <row/>
            <column>
             <property name="text">
-             <string>거래가능</string>
+             <string>Tradeable</string>
             </property>
            </column>
            <column>
             <property name="text">
-             <string>거래중</string>
+             <string>trading</string>
             </property>
            </column>
            <column>
             <property name="text">
-             <string>합계</string>
+             <string>sum</string>
             </property>
            </column>
            <column>
             <property name="text">
-             <string>평가액(USD)</string>
+             <string>appraisal(USD)</string>
             </property>
            </column>
            <column>
             <property name="text">
-             <string>수익률</string>
+             <string>yield</string>
             </property>
            </column>
           </widget>
@@ -160,7 +160,7 @@
            </property>
            <property name="font">
             <font>
-             <family>나눔고딕</family>
+             <family>Sharing Gothic</family>
              <pointsize>8</pointsize>
              <weight>50</weight>
              <bold>false</bold>
@@ -170,7 +170,7 @@
             <bool>false</bool>
            </property>
            <property name="text">
-            <string>매수(현재가)</string>
+            <string>Buy (current price)</string>
            </property>
           </widget>
          </item>
@@ -196,7 +196,7 @@
            </property>
            <property name="font">
             <font>
-             <family>나눔고딕</family>
+             <family>Sharing Gothic</family>
              <pointsize>8</pointsize>
              <weight>50</weight>
              <bold>false</bold>
@@ -206,7 +206,7 @@
             <bool>false</bool>
            </property>
            <property name="text">
-            <string>매도(현재가)</string>
+            <string>Sell (current price)</string>
            </property>
           </widget>
          </item>
@@ -309,27 +309,27 @@
          <row/>
          <column>
           <property name="text">
-           <string>지정가</string>
+           <string>sum</string>
           </property>
          </column>
          <column>
           <property name="text">
-           <string>매도</string>
+           <string>asks</string>
           </property>
          </column>
          <column>
           <property name="text">
-           <string>가격</string>
+           <string>price</string>
           </property>
          </column>
          <column>
           <property name="text">
-           <string>매수</string>
+           <string>bids</string>
           </property>
          </column>
          <column>
           <property name="text">
-           <string>지정가</string>
+           <string>sum</string>
           </property>
          </column>
         </widget>
@@ -462,7 +462,7 @@
          </property>
          <property name="font">
           <font>
-           <family>나눔고딕</family>
+           <family>Sharing Gothic</family>
            <pointsize>8</pointsize>
            <weight>50</weight>
            <bold>false</bold>
@@ -472,7 +472,7 @@
           <bool>false</bool>
          </property>
          <property name="text">
-          <string>주문 일괄취소</string>
+          <string>Bulk order cancellation</string>
          </property>
         </widget>
        </item>
